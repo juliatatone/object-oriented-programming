@@ -1,2 +1,5 @@
 # object-oriented-programming
-Homeworks and Labs from 2019
+Uploading for personal coding history.
+
+These files are old homeworks and labs from an object oriented programming course at WPI in 2019. Used Java and MYSQL occassionally.
+
